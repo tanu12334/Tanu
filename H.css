@@ -1,0 +1,12 @@
+.flex{
+    display: flex;
+    flex-wrap: wrap;
+}
+.flex1{
+    background-color: rgb(121, 216, 233);
+    justify-content: space-between;
+    padding: 20px 30px;
+}
+.product{
+    padding: 20px 30px;
+}
